@@ -1,4 +1,4 @@
-# `@financial-times/prettierrc-2019-05`
+# `@adambraimbridge/prettierrc-2019-05`
 
 A shared .prettierrc.js configuration file for prettier.io.
 
@@ -9,7 +9,7 @@ A shared .prettierrc.js configuration file for prettier.io.
 Install as a development dependency:
 
 ```bash
-$ npm install --save --dev @financial-times/prettierrc-2019-05
+$ npm install --save --dev @adambraimbridge/prettierrc-2019-05
 ```
 
 To apply to your project, edit your `package.json` file:
@@ -17,6 +17,6 @@ To apply to your project, edit your `package.json` file:
 ```jsonc
 {
 	// ...
-	"prettier": "@financial-times/prettierrc-2019-05"
+	"prettier": "@adambraimbridge/prettierrc-2019-05"
 }
 ```
