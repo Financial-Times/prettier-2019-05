@@ -1,0 +1,9 @@
+{
+	"name": "@financial-times/prettierrc-2019-05",
+	"version": "1.0.0",
+	"description": "A shared .prettierrc.js configuration file for prettier.io",
+	"main": ".prettierrc.js",
+	"repository": "git@github.com:financial-times/prettierrc-2019-05.git",
+	"author": "Adam Braimbridge <adam@braimbridge.com>",
+	"license": "MIT"
+}
